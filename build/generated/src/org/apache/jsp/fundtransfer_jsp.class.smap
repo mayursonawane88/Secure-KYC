@@ -1,0 +1,23 @@
+SMAP
+fundtransfer_jsp.java
+JSP
+*S JSP
+*F
++ 0 fundtransfer.jsp
+fundtransfer.jsp
++ 1 flash.jsp
+flash.jsp
++ 2 user_navigation.jsp
+user_navigation.jsp
+*L
+5:50
+3#1,9:53
+11,2:62
+13:64,3
+14:67
+15:68,5
+16,5:73
+6#0:78
+1#2,51:79
+7#0,199:130
+*E

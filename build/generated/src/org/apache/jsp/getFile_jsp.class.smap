@@ -1,0 +1,12 @@
+SMAP
+getFile_jsp.java
+JSP
+*S JSP
+*F
++ 0 getFile.jsp
+getFile.jsp
+*L
+5,5:47
+11,21:53
+31:74
+*E
